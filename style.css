@@ -1,0 +1,103 @@
+body {
+    background-color: rgb(0, 0, 0);
+    overflow: scroll;
+}
+.logo {
+    margin-left: 1cm;
+    border-radius: 30px;
+    width: 70px;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1cm;
+
+    text-shadow:
+    0 0 70px #da8181,
+    0 0 10px #da8181,
+    0 0 21px #da8181,
+    0 0 42px #da8181,
+    0 0 10px #da8181,
+    0 0 90px #da8181,
+    0 0 70px #da8181,
+    0 0 101px #da8181;
+}
+
+.pOne {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: auto;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 10px;     
+    font-size: 25px;
+}
+
+.pTwo, .pThree {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: auto;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 10px;     
+    font-size: 25px;
+}
+
+.rps {
+    margin-left: 2cm;
+    border-radius: 30px;
+    width: 350px;
+    border: 3px solid white;
+}
+
+.container {
+    margin-top: 3cm;
+    display: flex; 
+    align-items: center;
+}
+
+.kontainer {
+    border: 1px solid white;
+    width: 700px;
+    margin-left: 8cm;
+    background-color: rgb(20, 20, 20);
+    height: 220;
+}
+
+.aside {
+    background-color: rgb(20, 20, 20);
+    border: 1px solid white;
+    margin-left: 4cm;
+    margin-top: 1cm;
+}
+
+h4 {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-top: auto;
+}
+
+.cihuyy {
+    margin-top: 1cm;
+    background-color: rgb(38, 37, 39);
+    height: 700px;
+}
+
+.alok {
+    margin-top: 2cm;
+    border: 1px solid white;
+    width: 700px;
+    margin-left: 8cm;
+    background-color: rgb(20, 20, 20);
+    height: 220;
+}

@@ -8,7 +8,7 @@ body {
     width: 70px;
 }
 
-h3 {
+.title {
     color: white;
     text-align: center;
     font-size: 200%;
@@ -62,7 +62,7 @@ h3 {
 .kontainer {
     border: 1px solid white;
     width: 700px;
-    margin-left: 8cm;
+    margin-left: 10cm;
     background-color: rgb(20, 20, 20);
     height: 220;
 }
@@ -90,14 +90,29 @@ h2 {
 .cihuyy {
     margin-top: 1cm;
     background-color: rgb(38, 37, 39);
-    height: 700px;
+    height: 550px;
 }
 
 .alok {
     margin-top: 2cm;
     border: 1px solid white;
     width: 700px;
-    margin-left: 8cm;
+    margin-left: 10cm;
     background-color: rgb(20, 20, 20);
     height: 220;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-size: 150%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top:1cm;
+}
+
+@media (max-width: 768px) {
+    * {
+        width: 100%;
+        padding: 0 10px;
+    }
 }
